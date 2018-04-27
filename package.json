@@ -1,0 +1,22 @@
+{
+  "name": "GraphQL-demo",
+  "description": "koa+GraphQL",
+  "version": "1.0.0",
+  "private":false,
+  "author": "moedong",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "graphql": "^0.13.1",
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0"
+  },
+  "keywords": [
+    "graphql",
+    "koa"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
